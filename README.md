@@ -5,6 +5,7 @@ This is 1 of 2 parts in our final project.  **This is the back end repo**.  Here
 ## How to Play:
 Deployed at [https://life-of-bernard.herokuapp.com/](https://life-of-bernard.herokuapp.com/) 
 
+| Name | Github |
 | -- | -- |
 | <img src="https://raw.githubusercontent.com/jtc27/EP3-Gaming-BE/main/img/lob-1.png" height="200"> | 1. To play, you must sign up or log in. <br> Here is a login you can use:<br> Username: jake<br> Password: 1 |
 

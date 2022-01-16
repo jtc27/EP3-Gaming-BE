@@ -22,5 +22,12 @@ Here is the front end repo: [https://github.com/jtc27/EP3-Gaming-FE](https://git
 | Marianne Azzopardi | https://github.com/marazzo |
 | Serena Bertozzi | https://github.com/serenabertozzi |
 
-## Stack Info:
-- MERN (
+## Stack Info (Including Front and Back end):
+- MERN (MongoDB, Express, React, Node)
+- Passport.js, Authentication middleware for Node
+- Howler, audio manipulation library
+- Jest, Javascript testing
+
+## Development Info:
+
+

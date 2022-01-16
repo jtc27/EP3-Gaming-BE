@@ -28,6 +28,8 @@ Here is the front end repo: [https://github.com/jtc27/EP3-Gaming-FE](https://git
 - Howler, audio manipulation library
 - Jest, Javascript testing
 
-## Development Info:
+## My contributions to the project:
+
+- It was a great experience working with my team.  I have nothing but praise for all the members, their attitudes were great
 
 

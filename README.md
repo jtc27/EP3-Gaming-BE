@@ -1,6 +1,6 @@
 ## Life of Bernard (Back End)
 
-This is 1 of 2 parts in our final project.  **This is the back end repo**.  
+This is part 1 of 2 in our final project.  **This is the back end repo**.  
 
 Here is the front end repo: [https://github.com/jtc27/EP3-Gaming-FE](https://github.com/jtc27/EP3-Gaming-FE)
 
@@ -23,4 +23,5 @@ Here is the front end repo: [https://github.com/jtc27/EP3-Gaming-FE](https://git
 | Marianne Azzopardi | https://github.com/marazzo |
 | Serena Bertozzi | https://github.com/serenabertozzi |
 
-
+## Stack Info:
+- MERN (

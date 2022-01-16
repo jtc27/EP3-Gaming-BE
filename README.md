@@ -2,8 +2,17 @@
 
 This is 1 of 2 parts in our final project.  **This is the back end repo**.  Here is the front end repo: [https://github.com/jtc27/EP3-Gaming-FE](https://github.com/jtc27/EP3-Gaming-FE)
 
+## How to Play:
+Deployed at [https://life-of-bernard.herokuapp.com/](https://life-of-bernard.herokuapp.com/) 
 
+| <img src="https://raw.githubusercontent.com/jtc27/EP3-Gaming-BE/main/img/lob-1.png" height="350"> | 1. To play, you must sign up or log in.
 
+Here is a login you can use:
+Username: jake
+Password: 1|
+| -- | -- |
+| Anthony Osmaston | https://github.com/AJOsmaston |
+| Bernard Leanse | https://github.com/bernardleanse |
 
 
 ### Developed by:
@@ -17,4 +26,3 @@ This is 1 of 2 parts in our final project.  **This is the back end repo**.  Here
 | Serena Bertozzi | https://github.com/serenabertozzi |
 
 
-<br><br>Deployed at [https://life-of-bernard.herokuapp.com/](https://life-of-bernard.herokuapp.com/) 

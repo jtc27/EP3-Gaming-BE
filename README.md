@@ -7,7 +7,7 @@ Deployed at [https://life-of-bernard.herokuapp.com/](https://life-of-bernard.her
 
 | Name | Github |
 | -- | -- |
-| <img src="https://raw.githubusercontent.com/jtc27/EP3-Gaming-BE/main/img/lob-1.png" height="350"> | 1. To play, you must sign up or log in.
+| <img src="https://raw.githubusercontent.com/jtc27/EP3-Gaming-BE/main/img/lob-1.png" height="200"> | 1. To play, you must sign up or log in.
 
 Here is a login you can use:
 Username: jake

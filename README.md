@@ -36,3 +36,4 @@ Here is the front end repo: [https://github.com/jtc27/EP3-Gaming-FE](https://git
 
 - I also made the gameplay more dynamic.  With only a few days left in our deadline, our game was looking like a plain old battle simulator with random attacks and health damage.  I implemented a **timer** and the **"Don't attack!"** feature to put pressure on the player and make things more interesting.  Although we would have liked to make the game more expansive, I am pleased with the result.
 
+The theme song is ["Littleroot Town - Pokémon"](https://www.youtube.com/watch?v=zRGCzCn5azI), sung by the titular Bernard.

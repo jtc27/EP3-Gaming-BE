@@ -8,7 +8,7 @@ Here is the front end repo: [https://github.com/jtc27/EP3-Gaming-FE](https://git
 || Game Link:  [life-of-bernard.herokuapp.com](https://life-of-bernard.herokuapp.com/) |
 | -- | -- |
 | <img src="https://raw.githubusercontent.com/jtc27/EP3-Gaming-BE/main/img/lob-1.png" height="200"> | 1. To play, you must **sign up** or **log in**. <br><br> Here is a login you can use:<br> Username: jake<br> Password: 1 |
-| <img src="https://raw.githubusercontent.com/jtc27/EP3-Gaming-BE/main/img/lob-2.png" height="200"> | 2. Hit the “Attack” button repeatedly to maximise your score. <br><br> * **When the timer runs out, the game is over.** <br><br> * Randomly a message will flash in the center in red letters "DON'T ATTACK!" <br>* When this happens don't attack, you will not get points.  <br>* You will also lose health.  **If health goes to zero, the game is over.** |
+| <img src="https://raw.githubusercontent.com/jtc27/EP3-Gaming-BE/main/img/lob-2.png" height="200"> | 2. Hit the “Attack” button repeatedly to maximise your score. <br><br> * **When the timer runs out, the game is over.** <br><br> * Randomly a message will flash in the center in red letters <span style="color: red">"DON'T ATTACK!"</span> <br>* When this happens don't attack, you will not get points.  <br>* You will also lose health.  **If health goes to zero, the game is over.** |
 |  <img src="https://raw.githubusercontent.com/jtc27/EP3-Gaming-BE/main/img/lob-3.png" height="220">  | 3. When the game is over, your total score is shown. |
 |  <img src="https://raw.githubusercontent.com/jtc27/EP3-Gaming-BE/main/img/lob-4.png" height="200">  | 4. The "High Scores" screen |
 

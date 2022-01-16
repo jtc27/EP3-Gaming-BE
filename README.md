@@ -1,8 +1,8 @@
 ## Life of Bernard (Back End)
 
-This is 1 of 2 parts in our final project.  It is the back end repo.  Here is the Front end repo:
+This is 1 of 2 parts in our final project.  It is the **back end repo**.  Here is the front end repo: [https://github.com/jtc27/EP3-Gaming-FE](https://github.com/jtc27/EP3-Gaming-FE)
 
-[https://github.com/jtc27/EP3-Gaming-FE](https://github.com/jtc27/EP3-Gaming-FE)
+
 
 
 

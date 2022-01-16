@@ -30,6 +30,7 @@ Here is the front end repo: [https://github.com/jtc27/EP3-Gaming-FE](https://git
 
 ## My contributions to the project:
 
-- It was a great experience working with my team.  I have nothing but praise for all the members, their attitudes were great
+- It was a great experience working with my team.  I have nothing but praise for all the members, their attitudes were great.  We helped each other through tough problems and managed to make a compelling product
 
+- fdaf
 

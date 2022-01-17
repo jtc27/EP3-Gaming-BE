@@ -4,6 +4,10 @@ This is part 1 of 2 in our final project.  **This is the back end repo**.
 
 Here is the front end repo: [https://github.com/jtc27/EP3-Gaming-FE](https://github.com/jtc27/EP3-Gaming-FE)
 
+## About the Game
+
+This was our final project for Makers Academy.  It's a battle game made using the MERN stack.  User login and score info is stored on MongoDB.
+
 ## How to Play:
 || Instructions |
 | -- | -- |
